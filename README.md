@@ -34,8 +34,8 @@ It also includes a **copy-to-clipboard** feature for quick usage.
 ## 📥 Installation & Usage
 
 1. **Clone this repository**
-   git clone https://github.com/your-username/simple-password-generator.git
-   cd simple-password-generator
+   
+
 
 2. **Run the application**
    python password_generator.py
