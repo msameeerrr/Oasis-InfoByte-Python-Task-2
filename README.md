@@ -37,7 +37,7 @@ It also includes a **copy-to-clipboard** feature for quick usage.
    https://github.com/msameeerrr/Oasis-InfoByte-Python-Task-2.git
 
 2. **Run the application**
-   python password_generator.py
+   python simple_password_generator.py
 
 💡 How It Works
 
